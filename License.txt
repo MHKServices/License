@@ -1,29 +1,52 @@
-MHK Software License - 2023
+END-USER LICENSE AGREEMENT (EULA)
 
-Grant of License:
+This End-User License Agreement ("Agreement") is entered into as of [Effective Date], by and between MHK Services ("Licensor"), and RgAgency ("Licensee").
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction. This includes without limitation the rights to:
+1. **SOFTWARE LICENSE:**
+   1.1 **Grant of License.** Subject to the terms and conditions of this Agreement, Licensor grants Licensee a non-exclusive, non-transferable license to use the software (the "Software") for [describe the purpose and any limitations].
 
-Use
-Copy
-Modify
-Merge
-Publish
-Distribute
-Sub-license
-Sell copies of the Software
-without a premition from MHK
-And to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+   1.2 **Restrictions.** Licensee shall not reverse engineer, decompile, or disassemble the Software. Licensee shall not sublicense, sell, rent, lease, or distribute the Software.
 
-Copyright Notice:
+2. **INTELLECTUAL PROPERTY:**
+   2.1 **Ownership.** Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+   2.2 **No Source Code.** This license does not grant Licensee any right to access or receive a copy of the source code for the Software.
 
-Disclaimer of Warranty:
+3. **TERMS OF USE:**
+   3.1 **Usage Limitations.** Licensee agrees to use the Software only for its intended purpose and in accordance with any documentation provided by Licensor.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+   3.2 **Updates and Support.** Licensor may provide updates, improvements, or support services at its discretion. Licensee may be required to pay additional fees for such services.
 
-Support and Maintenance:
+4. **CONFIDENTIALITY:**
+   4.1 **Confidential Information.** Licensee agrees to keep confidential any non-public information regarding the Software.
 
-Additionally, MHK commits to providing support and maintenance for the Software. Details of such support and maintenance, including their scope, duration, and any associated costs or terms, will be specified in separate documentation or agreements.
+5. **PAYMENT:**
+   5.1 **License Fee.** In consideration for the license granted herein, Licensee shall pay Licensor the agreed-upon license fee as specified in the invoice provided by Licensor.
 
+6. **DISCLAIMER OF WARRANTY:**
+   6.1 **As-Is Basis.** THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY.
+
+7. **LIMITATION OF LIABILITY:**
+   7.1 **Limitation.** LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OF THE SOFTWARE.
+
+8. **TERMINATION:**
+   8.1 **Termination.** This Agreement may be terminated by either party with written notice if the other party breaches any material term or condition of this Agreement.
+
+9. **GOVERNING LAW:**
+   9.1 **Governing Law.** This Agreement shall be governed by and construed in accordance with the laws of [Your State/Country].
+
+10. **GENERAL:**
+    10.1 **Entire Agreement.** This Agreement constitutes the entire understanding between the parties and supersedes any prior agreements.
+
+IN WITNESS WHEREOF, the parties hereto have executed this End-User License Agreement as of the Effective Date.
+
+
+MHK Services
+By: [Your Name]
+Title: [Your Title]
+
+RgAgency
+By: [RgAgency Representative's Name]
+Title: [RgAgency Representative's Title]
+
+*Effective Date: [Date]*
